@@ -1,0 +1,2 @@
+ if(s==word):
+        break
