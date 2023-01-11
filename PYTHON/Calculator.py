@@ -48,7 +48,7 @@ while True:
             elif ch == 7:
                 sc.fact()
             elif ch == 8:
-                sc.sqrt(num) 
+                sc.sqrt() 
             elif ch ==9:
                 sc.sq()
             elif ch==10:
